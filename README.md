@@ -1,3 +1,3 @@
 # silver-barnacle
 
-nose
+nose=xd
